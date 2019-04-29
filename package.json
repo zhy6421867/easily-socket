@@ -10,5 +10,17 @@
     "socket"
   ],
   "author": "zhy6421867@qq.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/plugin-transform-runtime": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/runtime": "^7.4.4",
+    "babel-loader": "^8.0.5",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1"
+  }
 }
