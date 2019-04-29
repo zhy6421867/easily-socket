@@ -1,0 +1,14 @@
+{
+  "name": "z-socket",
+  "version": "1.0.0",
+  "description": "a simple socket plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socket"
+  ],
+  "author": "zhy6421867@qq.com",
+  "license": "ISC"
+}
