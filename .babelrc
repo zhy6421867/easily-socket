@@ -9,7 +9,8 @@
   ],
   "plugins": [
     "@babel/plugin-transform-runtime",
-    "transform-remove-console"
+    "transform-remove-console",
+    "@babel/proposal-class-properties"
   ],
   "comments": false
 }
