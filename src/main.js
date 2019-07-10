@@ -1,4 +1,4 @@
-class socket {
+class Socket {
 
   // heartBeatTimer = null
   // options = {}
@@ -105,4 +105,4 @@ class socket {
   }
 }
 
-export default socket
+export default Socket

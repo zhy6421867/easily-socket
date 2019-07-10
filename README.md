@@ -8,11 +8,13 @@ npm i easily-socket -S
 
 ```javascript
 
-import socket from 'easily-socket'
+import Socket from 'easily-socket'
 
-const mySocket = new socket({
+const mySocket = new Socket({
   url: '' // your wss url
 })
+
+mySocket.doOpen()
 
 ```
 
