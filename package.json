@@ -12,7 +12,7 @@
     "socket"
   ],
   "author": "zhy6421867@qq.com",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "rollup-plugin-uglify": "^6.0.2"
   },
