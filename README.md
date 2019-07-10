@@ -1,9 +1,25 @@
-## Build Setup
+# Installation
 
-``` bash
-# install dependencies
-npm install
+## npm
 
-# build for production with minification
-npm run build
+npm i easily-socket -S
+
+## Usage
+
+```javascript
+
+import socket from 'easily-socket'
+
+const mySocket = new socket({
+  url: '' // your wss url
+})
+
 ```
+
+## methods
+
+- doOpen
+- onOpen
+- checkOpen
+- onClose
+- doClose
