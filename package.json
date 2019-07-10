@@ -1,6 +1,6 @@
 {
   "name": "easily-socket",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a simple socket plugin",
   "main": "index.js",
   "scripts": {
