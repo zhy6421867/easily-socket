@@ -1,16 +1,22 @@
+// {
+//   "presets": [
+//     [
+//       "@babel/preset-env",
+//       {
+//         "modules": false
+//       }
+//     ]
+//   ],
+//   "plugins": [
+//     "@babel/plugin-transform-runtime",
+//     "transform-remove-console",
+//     "@babel/proposal-class-properties"
+//   ],
+//   "comments": false
+// }
+
 {
   "presets": [
-    [
-      "@babel/preset-env",
-      {
-        "modules": false
-      }
-    ]
-  ],
-  "plugins": [
-    "@babel/plugin-transform-runtime",
-    "transform-remove-console",
-    "@babel/proposal-class-properties"
-  ],
-  "comments": false
+    ["@babel/env", {"modules": false}]
+  ]
 }
